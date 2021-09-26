@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Christina Stuart</title>
+    <link>https://christinastuart.github.io/tags/</link>
+      <atom:link href="https://christinastuart.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 06 Jun 2021 00:00:01 +0000</lastBuildDate>
+    <image>
+      <url>https://christinastuart.github.io/media/icon_huc4c3df7d773c5f44ba1afd54dbca8f04_16566_512x512_fill_lanczos_center_2.png</url>
+      <title>Tags</title>
+      <link>https://christinastuart.github.io/tags/</link>
+    </image>
+    
+  </channel>
+</rss>

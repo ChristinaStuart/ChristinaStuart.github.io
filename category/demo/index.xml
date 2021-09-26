@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Demo | Christina Stuart</title>
+    <link>https://christinastuart.github.io/category/demo/</link>
+      <atom:link href="https://christinastuart.github.io/category/demo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Demo</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 06 Jun 2021 00:00:01 +0000</lastBuildDate>
+    <image>
+      <url>https://christinastuart.github.io/media/icon_huc4c3df7d773c5f44ba1afd54dbca8f04_16566_512x512_fill_lanczos_center_2.png</url>
+      <title>Demo</title>
+      <link>https://christinastuart.github.io/category/demo/</link>
+    </image>
+    
+    <item>
+      <title>Inspiring books</title>
+      <link>https://christinastuart.github.io/post/getting-started-2/</link>
+      <pubDate>Sun, 06 Jun 2021 00:00:01 +0000</pubDate>
+      <guid>https://christinastuart.github.io/post/getting-started-2/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Limits to growth&lt;/li&gt;
+&lt;li&gt;This changes everything&lt;/li&gt;
+&lt;li&gt;Silent spring&lt;/li&gt;
+&lt;/ol&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-limits-to-growth-cover-1974&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://limitstogrowthnet.files.wordpress.com/2013/01/197210.jpg&#34; alt=&#34;Limits to growth cover, 1974.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Limits to growth cover, 1974.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;quick-overview-in-progress&#34;&gt;Quick overview (in progress)&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Welcome to my blog</title>
+      <link>https://christinastuart.github.io/post/getting-started/</link>
+      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://christinastuart.github.io/post/getting-started/</guid>
+      <description>&lt;h2 id=&#34;3-inspirational-quotes-on-sustainability&#34;&gt;3 inspirational quotes on sustainability&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&amp;ldquo;The future will be green or not at all&amp;rdquo; - J. Porrit&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;If you think that the environmental is less important than cash, try holding your breath while counting your money&amp;rdquo; - J. Porrit&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Delegate to elevate&amp;rdquo; - J. Porrit&lt;/li&gt;
+&lt;/ol&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-j-porrit---author-journalist-environmentalist&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://1wf4qdlsxta3jgqm63wz83lx-wpengine.netdna-ssl.com/wp-content/uploads/2015/10/Jonathon-Porrit-Thumbnail.png&#34; alt=&#34;J. Porrit - Author, journalist, environmentalist.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      J. Porrit - Author, journalist, environmentalist.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

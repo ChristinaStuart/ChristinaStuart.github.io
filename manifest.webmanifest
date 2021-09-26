@@ -1,0 +1,18 @@
+{
+  "name": "Christina Stuart",
+  "short_name": "Christina Stuart",
+  "lang": "en-us",
+  "theme_color": "#707070",
+  "background_color": "#707070",
+  "icons": [{
+    "src": "/media/icon_huc4c3df7d773c5f44ba1afd54dbca8f04_16566_192x192_fill_lanczos_center_2.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/media/icon_huc4c3df7d773c5f44ba1afd54dbca8f04_16566_512x512_fill_lanczos_center_2.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Christina Stuart</title>
+    <link>https://christinastuart.github.io/project/</link>
+      <atom:link href="https://christinastuart.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 06 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://christinastuart.github.io/media/icon_huc4c3df7d773c5f44ba1afd54dbca8f04_16566_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>https://christinastuart.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Carbon Cards</title>
+      <link>https://christinastuart.github.io/project/example/</link>
+      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://christinastuart.github.io/project/example/</guid>
+      <description>&lt;h1 id=&#34;make-fighting-climate-change-easy&#34;&gt;Make Fighting Climate Change Easy&lt;/h1&gt;
+&lt;p&gt;Fighting climate change can be hard. That&amp;rsquo;s why we wanted to come up with a game. What is better : an apple from South America or an orange out of season ? Check out Carbon Cards, you&amp;rsquo;ll be surprised ;)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Food has a big impact &amp;ndash;&amp;gt; Food = 25% of GHG emissions&lt;/li&gt;
+&lt;li&gt;Eat low-carbon protein &amp;ndash;&amp;gt; eggs, chicken, tofu !&lt;/li&gt;
+&lt;li&gt;Eat local &amp;ndash;&amp;gt; Apples, pears !&lt;/li&gt;
+&lt;li&gt;Eat in Season &amp;ndash;&amp;gt; Mandarines only in Winter!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;More info here : &lt;a href=&#34;https://carboncards.netlify.app/&#34;&gt;https://carboncards.netlify.app/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The low-carbon cookbook</title>
+      <link>https://christinastuart.github.io/project/example-2/</link>
+      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://christinastuart.github.io/project/example-2/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Food accounts for 30% of GHG emissions. 
+Every day, for breakfast, lunch and dinner we make a choice that can change this impact… but by how much?&lt;/em&gt;&lt;/p&gt;
+&lt;h1 id=&#34;the-project&#34;&gt;The project:&lt;/h1&gt;
+&lt;p&gt;“The low-carbon cookbook” contains the carbon footprints of recipes so that you know what your food impact is and how much you can reduce it by thanks to simple choices. It is a collaborative project uniting chefs, climate change scientists, photographers and more.&lt;/p&gt;
+&lt;h1 id=&#34;want-to-join&#34;&gt;Want to join?&lt;/h1&gt;
+&lt;p&gt;We are looking for chefs to provide delicious recipes, a photographer to capture the meals.&lt;/p&gt;
+&lt;p&gt;Contact me below :)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
